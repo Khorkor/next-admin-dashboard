@@ -1,3 +1,4 @@
+"use client";
 import { MdSearch } from "react-icons/md";
 import styles from "./search.module.css";
 
