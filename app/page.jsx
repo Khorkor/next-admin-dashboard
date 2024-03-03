@@ -4,8 +4,10 @@ import Link from "next/link";
 const Homepage = () => {
   return (
     <div>
-      Homepage
-      <Link href="/login">Go to Login</Link>
+      <div>Desktop Admin Dashboard Home Page</div>
+      <div>
+        <Link href="/login">Go to Login</Link>
+      </div>
     </div>
   );
 };
